@@ -1,9 +1,3 @@
-(setq markdown-xhtml-header-content
-  "<style type='text/css'>
-li { align='center'; }
-a:hover { text-decoration: underline; }
-</style>")
-
 ### 안녕하세요 👋
 
 ## 게임 클라이언트, 웹 개발자 지망생입니다!
@@ -20,7 +14,7 @@ a:hover { text-decoration: underline; }
 <details align='center'>
   <summary>개발 스택</summary>
   <p align='center'>
-    <ol>
+    <ol align='center'>
       <li>C#</li>
       <li>Python</li>
       <li>HTML, CSS, JS</li>

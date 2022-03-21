@@ -8,5 +8,4 @@
 웹 직군이라면 사용자분들이 도움을 얻거나 자주 들르는 것을 꿈으로 생각하고 있습니다.<br>
 
 [![Jungdol's github stats](https://github-readme-stats.vercel.app/api?username=Jungdol&theme=dark&show_icons=true)](https://github.com/Jungdol/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungdol&layout=compact&theme=dark)](https://github.com/Jungdol/github-readme-stats)

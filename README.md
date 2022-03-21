@@ -14,11 +14,9 @@
 <details align='center'>
   <summary>개발 스택</summary>
   <p align='center'>
-    <ol align='center'>
-      <li align='center'>C#</li>
-      <li>Python</li>
-      <li>HTML, CSS, JS</li>
-  </ol>
+    - C#
+    - Python
+    - HTML, CSS, JS
   </p>
 </details>
 

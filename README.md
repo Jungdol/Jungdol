@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungdol&langs_count=8l&theme=dark)](https://github.com/Jungdol/github-readme-stats)
 
-게임 클라이언트, 웹 개발자 지망생입니다!<br>
+## 게임 클라이언트, 웹 개발자 지망생입니다!
 현재는 게임 졸작을 만들고 싶어 유니티를 사용해 C#의 비중이 높지만<br>
 웹 쪽에도 관심이 있어 틈틈히 개발해볼 예정입니다.
 

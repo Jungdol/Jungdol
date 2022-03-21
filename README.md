@@ -10,13 +10,15 @@
 [![Jungdol's github stats](https://github-readme-stats.vercel.app/api?username=Jungdol&theme=dark&show_icons=true)](https://github.com/Jungdol/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungdol&layout=compact&theme=dark)](https://github.com/Jungdol/github-readme-stats)
 
+<p align='center'>
 <details>
-  <summary><p align='center'>개발 스택</p></summary>
+  <summary>개발 스택</summary>
   
   1. C#
   2. Python
   3. HTML, CSS, JS
 </details>
+</p>
 
 <p align='center'>
   <a href="https://blog.naver.com/jungdol0202" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width=25%/></a> &nbsp; 

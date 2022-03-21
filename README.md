@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungdol&layout=compact&theme=dark)](https://github.com/Jungdol/github-readme-stats)
 
 
-<details>
+<details align='center'>
   <summary>개발 스택</summary>
   <p align='center'>
     1. C#

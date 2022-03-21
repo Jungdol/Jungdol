@@ -14,9 +14,9 @@
 <details align='center'>
   <summary>개발 스택</summary>
   <p align='center'>
-    - C#
-    - Python
-    - HTML, CSS, JS
+    1. C#
+    1. Python
+    1. HTML, CSS, JS
   </p>
 </details>
 

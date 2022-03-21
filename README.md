@@ -13,16 +13,13 @@
 
 <details align='center'>
   <summary>개발 스택</summary>
-  <p align='center'>
-1. 첫번째
-2. 두번째
-3. 세번째
-  </p>
+    C#<br>
+    Python<br>
+    HTML, CSS, JS
 </details>
 
 
 <p align='center'>
   <a href="https://blog.naver.com/jungdol0202" target="_blank"><img src="https://img.shields.io/badge/Portfolio%20Blog-03C75A?style=flat-square&logo=Naver&logoColor=white" width=25%/></a> &nbsp; 
-  <a href="https://jungdol.github.io" target="_blank"><img src="https://img.shields.io/badge/Github%20Blog-000000?style=flat-square&logo=Github&logoColor=white" width=25%/>
+  <a href="https://jungdol.github.io" target="_blank"><img src="https://img.shields.io/badge/Github%20Blog-000000?style=flat-square&logo=Github&logoColor=white" width=25%/></a>
   </p>
-

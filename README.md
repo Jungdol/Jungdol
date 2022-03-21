@@ -1,5 +1,5 @@
 <style type='text/css'>
-  li { align: center }
+  [li] { align: center }
 </style>
 
 ### 안녕하세요 👋

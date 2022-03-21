@@ -1,6 +1,8 @@
-<style type='text/css'>
-  [li] { align: center }
-</style>
+(setq markdown-xhtml-header-content
+  "<style type='text/css'>
+li { align='center'; }
+a:hover { text-decoration: underline; }
+</style>")
 
 ### 안녕하세요 👋
 

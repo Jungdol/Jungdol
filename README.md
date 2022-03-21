@@ -7,8 +7,8 @@
 게임 직군이라면 플레이 하지 않은 사람이 게임의 이름을 알 정도나 유저가 게임으로 힘든 일상을 재밌게 마무리하는 것<br>
 웹 직군이라면 사용자분들이 도움을 얻거나 자주 들르는 것을 꿈으로 생각하고 있습니다.<br>
 
-[Jungdol's github stats](https://github-readme-stats.vercel.app/api?username=Jungdol&theme=dark&show_icons=true)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungdol&layout=compact&theme=dark)
+[![Jungdol's github stats](https://github-readme-stats.vercel.app/api?username=Jungdol&theme=dark&show_icons=true)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungdol&layout=compact&theme=dark)]
 
 
 <details align='center'>

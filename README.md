@@ -11,7 +11,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jungdol&layout=compact&theme=dark)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/wndduq0202)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wndduq0202)](https://solved.ac/wndduq0202)
 
 
 <details align='center'>
